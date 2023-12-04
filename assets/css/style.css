@@ -167,7 +167,8 @@ button:focus {
 }
 
 .header-transparent .xs-menu-tools>li>a {
-    color: #fff
+    color: #fff;
+    font-size: 30px;
 }
 
 .header-transparent .xs-menus .nav-menu>li>a:before {
