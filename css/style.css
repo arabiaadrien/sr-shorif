@@ -244,13 +244,13 @@ section {
 
 .gallery-box img {
     width: 100%;
-    transition: .5s ease;
+    /* transition: .5s ease; */
 }
 
-.gallery-box:hover img {
+/* .gallery-box:hover img {
 
     transform: scale(1.1);
-}
+} */
 
 .gallery-box .gallery-layer {
     position: absolute;
@@ -269,10 +269,10 @@ section {
     transition: .5s ease;
 }
 
-.gallery-box:hover .gallery-layer {
+/* .gallery-box:hover .gallery-layer {
     transform: translateY(0);
 
-}
+} */
 
 .gallery-layer h4 {
     font-size: 3rem;
