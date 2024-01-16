@@ -453,5 +453,6 @@ section {
 
     .about-img img {
         width: 90vw;
+        overflow-x: hidden;
     }
 }
